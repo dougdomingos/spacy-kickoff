@@ -1,0 +1,1 @@
+SPACY_LANG_MODEL="pt_core_news_lg"
